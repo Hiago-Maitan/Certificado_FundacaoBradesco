@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(49, 47, 49) ;
+}
+
+.certificado {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
